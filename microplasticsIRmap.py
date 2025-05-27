@@ -1,2 +1,2 @@
 print('hello world!')
-print('test push to GitHub')
+print('test push to GitHub!')
