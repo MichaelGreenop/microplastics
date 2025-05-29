@@ -7,6 +7,9 @@ import sklearn
 import seaborn
 import scipy
 
+
+
+
 # Function 1: Input data and format check (is the data in the format that the software requires?)
 
 # Is the first column that sample names?
@@ -16,6 +19,13 @@ import scipy
 # Are all values (other than the first column) floats (or able to be converted into floats)
 
 
-# Function 2: Preprocessing
+# Function 2: Data seperation
+# Needs to separate the dataset into wavenumber, sample name, class labels, and spectral dataset
+
+
+# Function 3: Preprocessing
+# Baseline correction, scaling, etc. for the data matrix
+
+# recombine the dataset as required
 
 
